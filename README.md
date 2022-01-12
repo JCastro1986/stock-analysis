@@ -16,10 +16,12 @@ We can notice the following:
         * Stocks with top return were (DQ, SEDG and ENPH)
         * The only stocks with negative return was TERP.
             ![2017 Results](P:\DATA ANALYST - TEC\Challenges\Module 2\Resources\All Stocks (2017).png) 
+            ![All Stocks (2017)](https://user-images.githubusercontent.com/95668609/149052983-592039a9-ed3e-4dea-8a3b-983d2d47a5a9.png)
     - 2018: Only two stocks were giving positive returns.
         * The only stocks with positive returns were ENPH and RUN, (RUN with the highest return %).
         * Stocks with top negative returns were (DQ, JKS and SPWR).
             ![2018 Results](P:\DATA ANALYST - TEC\Challenges\Module 2\Resources\All Stocks (2018).png)
+            ![All Stocks (2018)](https://user-images.githubusercontent.com/95668609/149052998-eaf034fb-f4ab-4277-9138-617bfdbecdc4.png)
 The key components of my coding were:
     - 'Initialize array of all tickers
     Dim tickers(11) As String
